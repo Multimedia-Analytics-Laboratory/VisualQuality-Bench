@@ -6,6 +6,12 @@ This repository records common image processing tasks with their synthetic data 
 
 ### Image Restoration Tasks
 - Super-Resolution
+    - Synthetic data construction
+        - For non-generative methods: Bicubic downsampling (x2, x4)
+        - For generative methods: RealESRGAN degradation [Paper](https://arxiv.org/abs/2107.10833)
+        ![Alt text]("images/realesrgan.png")
+    - SOTA methods
+        - SwinIR, HAT, SeeSR, PASD, OSEDiff,
 - Denoising
 - Deblurring
 - Deraining
