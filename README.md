@@ -42,5 +42,6 @@ This repository records common image processing tasks with their synthetic data 
 ### Compression Tasks
 - Traditional Compression (JPEG, WebP, HEIC, etc.)
 - Learned Image Compression
-●Geometry-Aware Image Generation Tasks (These tasks generate 2D images with geometric priors from multi-view or 3D-inspired pipelines.)
-○Novel View Synthesis (NVS)
+
+### Geometry-Aware Image Generation Tasks
+- Novel View Synthesis
