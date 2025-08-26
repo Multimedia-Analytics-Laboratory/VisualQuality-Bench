@@ -14,10 +14,9 @@ This repository records common image processing tasks with their synthetic data 
         - SwinIR, HAT, SeeSR, PASD, OSEDiff,
 - Denoising
     - Synthetic data construction
-        - Camera perception: [Unprocessing pipeline](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content_CVPR_2019/papers/Brooks_Unprocessing_Images_for_Learned_Raw_Denoising_CVPR_2019_paper.pdf)
-        - CBDNet degradation: [CBDNet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Toward_Convolutional_Blind_Denoising_of_Real_Photographs_CVPR_2019_paper.pdf) (the most common)<br>
+        - Camera perception: [[Unprocessing pipeline](https://arxiv.org/abs/1811.11127)]
+        - CBDNet degradation: [[CBDNet](https://arxiv.org/abs/1807.04686)] (the most common)<br>
             <img src="images/cbdnet.png" alt="Super-resolution example" width="250"/>
-        - [Noise Flow](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content_ICCV_2019/papers/Abdelhamed_Noise_Flow_Noise_Modeling_With_Conditional_Normalizing_Flows_ICCV_2019_paper.pdf)
     - SOTA methods
         - CBDNet, 
 - Deblurring
