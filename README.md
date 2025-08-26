@@ -9,7 +9,7 @@ This repository records common image processing tasks with their synthetic data 
     - Synthetic data construction
         - For non-generative methods: Bicubic downsampling (x2, x4)
         - For generative methods: RealESRGAN degradation [Paper](https://arxiv.org/abs/2107.10833)
-        ![Alt text]("images/realesrgan.png")
+        <img src="images/realesrgan.png" alt="Super-resolution example" width="500"/>
     - SOTA methods
         - SwinIR, HAT, SeeSR, PASD, OSEDiff,
 - Denoising
