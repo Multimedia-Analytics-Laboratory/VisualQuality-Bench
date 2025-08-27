@@ -26,9 +26,13 @@ This repository records common image processing tasks with their synthetic data 
     - SOTA methods
         - MAXIM, LaKDNet, EVSSM, 
 - Deraining
-    - Synthetic data construction
-
+    - 
+        - Rain streak, Raindrop, Rain and mist [[MPID Dataset](https://arxiv.org/abs/1903.08558)]
+    - SOTA methods
+        - DiffPlugin, Restormer, MPRNet,
 - Desnowing
+    - Synthetic data construction
+        - 
 - Dehazing
 - Inpainting
 - Shadow Removal
