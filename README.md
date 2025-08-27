@@ -81,10 +81,6 @@ This repository records common image processing tasks with their synthetic data 
         - Inverse Gamma + Changing EV + CRF and noise
     - SOTA methods
         - U2Fusion (2020)
-- Depth-aware Image Enhancement
-    - Synthetic data construction
-    - SOTA methods
-- Rendering
 
 ### Tone Mapping Tasks
 - HDR Tone Mapping 
