@@ -67,7 +67,9 @@ This repository records common image processing tasks with their synthetic data 
         - SNR-LLIE (2022), Retinexformer (2023), 
 - Color Enhancement
     - Synthetic data construction
+        - RAW to ISP, Changing EV [[Afifi et al.](https://arxiv.org/abs/2003.11596)]
     - SOTA methods
+        - Afifi et al. (2021), 
 - Underwater Image Enhancement
 - Multi-Exposure Fusion
 - Depth-aware Image Enhancement
