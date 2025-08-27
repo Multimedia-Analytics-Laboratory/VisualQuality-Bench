@@ -49,10 +49,15 @@ This repository records common image processing tasks with their synthetic data 
 - Shadow Removal
     - Synthetic data construction
         - [[SynShadow](https://arxiv.org/abs/2101.01713)]<br>
-            <img src="images/SynShadow.png" alt="Super-resolution example" width="250"/>
+            <img src="images/SynShadow.png" alt="Super-resolution example" width="350"/>
     - SOTA methods
         - DHAN (2019), 
 - Reflection Removal
+    - Synthetic data construction
+        - [[Zhang et al.](https://arxiv.org/abs/1806.05376)]<br>
+            <img src="images/Reflection.png" alt="Super-resolution example" width="200"/>
+    - SOTA methods
+        - CEILNet (2017), Zhang et al. (2018), 
 
 ### Image Enhancement Tasks
 - Low-Light Enhancement
