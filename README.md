@@ -11,16 +11,23 @@ This repository records common image processing tasks with their synthetic data 
         - For generative methods: RealESRGAN degradation [[RealESRGAN Paper](https://arxiv.org/abs/2107.10833)]<br>
             <img src="images/realesrgan.png" alt="Super-resolution example" width="500"/>
     - SOTA methods
-        - SwinIR, HAT, SeeSR, PASD, OSEDiff,
+        - SwinIR, HAT, DiffBIR, SeeSR, OSEDiff, HyperIR
 - Denoising
     - Synthetic data construction
         - Camera perception: [[Unprocessing pipeline](https://arxiv.org/abs/1811.11127)]
         - CBDNet degradation: [[CBDNet](https://arxiv.org/abs/1807.04686)] (the most common)<br>
             <img src="images/cbdnet.png" alt="Super-resolution example" width="250"/>
     - SOTA methods
-        - CBDNet, 
+        - CBDNet, SwinIR, Restormer, X-Restormer, 
 - Deblurring
+    - Synthetic data construction
+        - [[Levin Dataset Kernels](https://ieeexplore.ieee.org/document/5963691)]
+        - Gaussian kernel + motion kernel + noise
+    - SOTA methods
+        - MAXIM, LaKDNet, EVSSM, 
 - Deraining
+    - Synthetic data construction
+
 - Desnowing
 - Dehazing
 - Inpainting
