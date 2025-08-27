@@ -83,7 +83,11 @@ This repository records common image processing tasks with their synthetic data 
         - U2Fusion (2020)
 
 ### Tone Mapping Tasks
-- HDR Tone Mapping 
+- HDR Tone Mapping
+    - Synthetic data construction
+        - HDR datasets
+    - SOTA methods
+        - TMO algorithms
 
 ### Face and Portrait Restoration Tasks
 - Old Photo Restoration
