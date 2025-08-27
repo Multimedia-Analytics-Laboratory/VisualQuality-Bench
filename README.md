@@ -92,7 +92,7 @@ This repository records common image processing tasks with their synthetic data 
 ### Face and Portrait Restoration Tasks
 - Old Photo Restoration
 - Face Inpainting
-- Face Super-Resolution 1000
+- Face Super-Resolution
 - Face Editing
 - Deepfake Generation
 
@@ -103,8 +103,8 @@ This repository records common image processing tasks with their synthetic data 
 - Image Outpainting
 
 ### Compression Tasks
-- Traditional Compression (JPEG, WebP, HEIC, etc.)
-- Learned Image Compression
+- Image Compression
+    - JPEG, WebP, HEIC, Learned algorithms
 
 ### Geometry-Aware Image Generation Tasks
 - Novel View Synthesis
