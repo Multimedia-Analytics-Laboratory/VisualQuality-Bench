@@ -36,6 +36,11 @@ This repository records common image processing tasks with their synthetic data 
     - SOTA methods
         - DesnowNet,
 - Dehazing
+    - Synthetic data construction
+        - Atmospheric Scattering Model [[RESIDE](https://arxiv.org/abs/1712.04143)]
+            <img src="images/RESIDE.png" alt="Super-resolution example" width="250"/>
+    - SOTA methods
+        - DehazeFormer (2023), RIDCP (2023),
 - Inpainting
 - Shadow Removal
 - Reflection Removal
