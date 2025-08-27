@@ -42,6 +42,10 @@ This repository records common image processing tasks with their synthetic data 
     - SOTA methods
         - DehazeFormer (2023), RIDCP (2023),
 - Inpainting
+    - Synthetic data construction
+        - Free-form irregular masks and rectangular masks [[SN-PatchGAN](https://arxiv.org/abs/1806.03589)]
+    - SOTA methods
+        - SN-PatchGAN (2019)
 - Shadow Removal
 - Reflection Removal
 
