@@ -45,8 +45,13 @@ This repository records common image processing tasks with their synthetic data 
     - Synthetic data construction
         - Free-form irregular masks and rectangular masks [[SN-PatchGAN](https://arxiv.org/abs/1806.03589)]
     - SOTA methods
-        - SN-PatchGAN (2019)
+        - SN-PatchGAN (2019),
 - Shadow Removal
+    - Synthetic data construction
+        - [[SynShadow](https://arxiv.org/abs/2101.01713)]<br>
+            <img src="images/SynShadow.png" alt="Super-resolution example" width="250"/>
+    - SOTA methods
+        - DHAN (2019), 
 - Reflection Removal
 
 ### Image Enhancement Tasks
