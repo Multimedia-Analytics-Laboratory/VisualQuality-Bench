@@ -37,7 +37,7 @@ This repository records common image processing tasks with their synthetic data 
         - DesnowNet,
 - Dehazing
     - Synthetic data construction
-        - Atmospheric Scattering Model [[RESIDE](https://arxiv.org/abs/1712.04143)]
+        - Atmospheric Scattering Model [[RESIDE](https://arxiv.org/abs/1712.04143)]<br>
             <img src="images/RESIDE.png" alt="Super-resolution example" width="250"/>
     - SOTA methods
         - DehazeFormer (2023), RIDCP (2023),
