@@ -71,6 +71,11 @@ This repository records common image processing tasks with their synthetic data 
     - SOTA methods
         - Afifi et al. (2021), 
 - Underwater Image Enhancement
+    - Synthetic data construction
+        - [[Jaffe-McGlamery / Sea-thru](https://diglib.eg.org/items/e745bd5f-f8fd-48f0-b7e5-e447a4765bf3)]
+        - WaterGAN (complicated)
+    - SOTA methods
+        - FUnIE-GAN (2020), 
 - Multi-Exposure Fusion
 - Depth-aware Image Enhancement
 - Rendering
