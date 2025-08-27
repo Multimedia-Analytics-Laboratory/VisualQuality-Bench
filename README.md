@@ -77,7 +77,13 @@ This repository records common image processing tasks with their synthetic data 
     - SOTA methods
         - FUnIE-GAN (2020), 
 - Multi-Exposure Fusion
+    - Synthetic data construction
+        - Inverse Gamma + Changing EV + CRF and noise
+    - SOTA methods
+        - U2Fusion (2020)
 - Depth-aware Image Enhancement
+    - Synthetic data construction
+    - SOTA methods
 - Rendering
 
 ### Tone Mapping Tasks
