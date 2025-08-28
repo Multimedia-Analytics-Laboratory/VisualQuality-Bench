@@ -91,6 +91,10 @@ This repository records common image processing tasks with their synthetic data 
 
 ### Face and Portrait Restoration Tasks
 - Old Photo Restoration
+    - Synthetic data construction
+        - Unstructured Degradation (noise) + Structured Degradation (Scratches, holes/tears) [[Pipeline](https://arxiv.org/abs/2009.07047)]
+    - SOTA methods
+        - Wan et al. (2020), 
 - Face Inpainting
 - Face Super-Resolution
 - Face Editing
