@@ -122,7 +122,3 @@ This repository records common image processing tasks with their synthetic data 
 - Image Compression
     - JPEG, WebP, HEIC, Learned algorithms
 
-### Geometry-Aware Image Generation Tasks
-- Novel View Synthesis
-
-
