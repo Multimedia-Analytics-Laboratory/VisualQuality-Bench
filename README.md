@@ -99,10 +99,12 @@ This repository records common image processing tasks with their synthetic data 
     - Synthetic data construction
         - Free-form irregular masks and rectangular masks
     - SOTA methods
-        - RePaint (2022),
+        - RePaint (2022), CodeFormer (2022)
 - Face Super-Resolution
     - Synthetic data construction
+        - RealESRGAN degradation
     - SOTA methods
+        - CodeFormer (2022)
 - Face Editing
 - Deepfake Generation
 
