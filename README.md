@@ -41,7 +41,7 @@ This repository records common image processing tasks with their synthetic data 
             <img src="images/RESIDE.png" alt="Super-resolution example" width="250"/>
     - SOTA methods
         - DehazeFormer (2023), RIDCP (2023),
-- Inpainting
+- Natural Image Inpainting
     - Synthetic data construction
         - Free-form irregular masks and rectangular masks [[SN-PatchGAN](https://arxiv.org/abs/1806.03589)]
     - SOTA methods
@@ -63,6 +63,16 @@ This repository records common image processing tasks with their synthetic data 
         - Unstructured Degradation (noise) + Structured Degradation (Scratches, holes/tears) [[Pipeline](https://arxiv.org/abs/2009.07047)]
     - SOTA methods
         - Wan et al. (2020), 
+- Face Inpainting
+    - Synthetic data construction
+        - Free-form irregular masks and rectangular masks
+    - SOTA methods
+        - RePaint (2022), CodeFormer (2022)
+- Face Super-Resolution
+    - Synthetic data construction
+        - RealESRGAN degradation
+    - SOTA methods
+        - CodeFormer (2022)
 
 ### Image Enhancement Tasks
 - Low-Light Enhancement
@@ -94,22 +104,10 @@ This repository records common image processing tasks with their synthetic data 
     - SOTA methods
         - TMO algorithms
 
-### Face and Portrait Restoration Tasks
-- Face Inpainting
-    - Synthetic data construction
-        - Free-form irregular masks and rectangular masks
-    - SOTA methods
-        - RePaint (2022), CodeFormer (2022)
-- Face Super-Resolution
-    - Synthetic data construction
-        - RealESRGAN degradation
-    - SOTA methods
-        - CodeFormer (2022)
-- Face Editing
-- Deepfake Generation
-
 ### Image Generation Tasks
 - Style Transfer (I2I)
+    - Content Image and Style Image
+    - CycleGAN (2017)
 - Cartoonization
 - Text-to-Image Synthesis
 - Image Outpainting
