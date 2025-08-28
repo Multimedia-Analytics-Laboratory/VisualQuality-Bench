@@ -58,6 +58,11 @@ This repository records common image processing tasks with their synthetic data 
             <img src="images/Reflection.png" alt="Super-resolution example" width="200"/>
     - SOTA methods
         - CEILNet (2017), Zhang et al. (2018), 
+- Old Photo Restoration
+    - Synthetic data construction
+        - Unstructured Degradation (noise) + Structured Degradation (Scratches, holes/tears) [[Pipeline](https://arxiv.org/abs/2009.07047)]
+    - SOTA methods
+        - Wan et al. (2020), 
 
 ### Image Enhancement Tasks
 - Low-Light Enhancement
@@ -90,13 +95,14 @@ This repository records common image processing tasks with their synthetic data 
         - TMO algorithms
 
 ### Face and Portrait Restoration Tasks
-- Old Photo Restoration
-    - Synthetic data construction
-        - Unstructured Degradation (noise) + Structured Degradation (Scratches, holes/tears) [[Pipeline](https://arxiv.org/abs/2009.07047)]
-    - SOTA methods
-        - Wan et al. (2020), 
 - Face Inpainting
+    - Synthetic data construction
+        - Free-form irregular masks and rectangular masks
+    - SOTA methods
+        - RePaint (2022),
 - Face Super-Resolution
+    - Synthetic data construction
+    - SOTA methods
 - Face Editing
 - Deepfake Generation
 
@@ -112,3 +118,5 @@ This repository records common image processing tasks with their synthetic data 
 
 ### Geometry-Aware Image Generation Tasks
 - Novel View Synthesis
+
+
