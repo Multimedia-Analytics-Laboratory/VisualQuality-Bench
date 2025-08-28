@@ -67,12 +67,12 @@ This repository records common image processing tasks with their synthetic data 
     - Synthetic data construction
         - Free-form irregular masks and rectangular masks
     - SOTA methods
-        - RePaint (2022), CodeFormer (2022)
+        - RePaint (2022), CodeFormer (2022),
 - Face Super-Resolution
     - Synthetic data construction
-        - RealESRGAN degradation
+        - GFPGAN degradation [[Pipeline](https://arxiv.org/abs/2101.04061)]
     - SOTA methods
-        - CodeFormer (2022)
+        - GFPGAN (2021), CodeFormer (2022),
 
 ### Image Enhancement Tasks
 - Low-Light Enhancement
