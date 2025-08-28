@@ -109,6 +109,8 @@ This repository records common image processing tasks with their synthetic data 
     - Content Image and Style Image
     - CycleGAN (2017)
 - Cartoonization
+    - Natural Image
+    - White-box Cartoonization (2020)
 - Text-to-Image Synthesis
 - Image Outpainting
 
