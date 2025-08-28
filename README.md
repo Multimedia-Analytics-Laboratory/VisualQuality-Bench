@@ -112,6 +112,8 @@ This repository records common image processing tasks with their synthetic data 
     - Natural Image
     - White-box Cartoonization (2020),
 - Text-to-Image Synthesis
+    - GPT generation with attribution combinations
+    - SD3.5 (2024), 
 - Image Outpainting
     - Natural Image
     - QueryOTR (2022)
