@@ -114,6 +114,9 @@ This repository records common image processing tasks with their synthetic data 
 - Text-to-Image Synthesis
     - GPT generation with attribution combinations
     - SD3.5 (2024), 
+- Image Eidting
+    - Send image into a VLM to generate instructions
+    - SD3.5 (2024),
 - Image Outpainting
     - Natural Image
     - QueryOTR (2022)
